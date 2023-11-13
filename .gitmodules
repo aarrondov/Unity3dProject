@@ -1,0 +1,3 @@
+[submodule "Unity3dProject"]
+	path = Unity3dProject
+	url = https://github.com/aarrondov/Unity3dProject.git
